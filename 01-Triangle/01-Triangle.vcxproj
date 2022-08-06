@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{651385af-6c04-4396-bc82-b5faed088dda}</ProjectGuid>
-    <RootNamespace>LearningOpenGL</RootNamespace>
+    <ProjectGuid>{32015aa7-4894-4fb9-9da8-1838651ee93d}</ProjectGuid>
+    <RootNamespace>My01Triangle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -71,12 +71,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Users\Kaan\Documents\Opengl\LearningOpenGL\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Kaan\Documents\Opengl\LearningOpenGL\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\Kaan\Documents\GitHub\opengl-learning\01-Triangle\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Kaan\Documents\GitHub\opengl-learning\01-Triangle\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\Kaan\Documents\Opengl\LearningOpenGL\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Kaan\Documents\Opengl\LearningOpenGL\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\Kaan\Documents\GitHub\opengl-learning\01-Triangle\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Kaan\Documents\GitHub\opengl-learning\01-Triangle\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
