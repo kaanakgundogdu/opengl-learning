@@ -1,0 +1,2 @@
+C:\Users\Kaan\Documents\GitHub\opengl-learning\01-Triangle\x64\Debug\01-Triangle.exe
+C:\Users\Kaan\Documents\GitHub\opengl-learning\Opengl\01-Triangle\x64\Debug\01-Triangle.exe
